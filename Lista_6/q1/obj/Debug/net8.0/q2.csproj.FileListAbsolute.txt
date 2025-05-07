@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\bin\Debug\net8.0\q2.exe
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\bin\Debug\net8.0\q2.deps.json
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\bin\Debug\net8.0\q2.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\bin\Debug\net8.0\q2.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\bin\Debug\net8.0\q2.pdb
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\refint\q2.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.pdb
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\q2.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_6\q2\obj\Debug\net8.0\ref\q2.dll
