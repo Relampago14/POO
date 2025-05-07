@@ -1,0 +1,4 @@
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_7\q3\obj\Debug\net8.0\q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_7\q3\obj\Debug\net8.0\q3.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_7\q3\obj\Debug\net8.0\q3.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\3°\POO\Lista_7\q3\obj\Debug\net8.0\q3.csproj.CoreCompileInputs.cache
