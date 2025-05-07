@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\bin\Debug\net8.0\lista_4.exe
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\bin\Debug\net8.0\lista_4.deps.json
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\bin\Debug\net8.0\lista_4.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\bin\Debug\net8.0\lista_4.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\bin\Debug\net8.0\lista_4.pdb
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\refint\lista_4.dll
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.pdb
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\lista_4.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\3°\POO\lista_4\obj\Debug\net8.0\ref\lista_4.dll
